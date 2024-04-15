@@ -1,0 +1,11 @@
+# Ignore Python cache folders
+__pycache__/
+
+# Ignore data_archive folder
+data_archive/
+
+# Ignore zip folders
+*.zip
+
+# Ignore ydata profiling html file
+*.html
